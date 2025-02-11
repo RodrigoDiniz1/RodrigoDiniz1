@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there :wave:;
 
-<!--
-**RodrigoDiniz1/RodrigoDiniz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Rodigo Diniz, atualmente sou Desenvolvedor Web, trabalho com projetos focados em:
 
-Here are some ideas to get you started:
+- HTML5;
+- CSS3;
+- JavaScript
+- Dentre outras tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Minhas redes sociais:<br> 
+ <p>
+ <a href="https://www.linkedin.com/in/rodrigo-diniz-web/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.instagram.com/rodrigodiniz_br/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="linkedin"/> </a>
+ </p>
+
+<br> <br>
+ [![Rodrigo stats](https://github-readme-stats.vercel.app/api?username=RodrigoDiniz1)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDiniz1)](https://github.com/anuraghazra/github-readme-stats)
