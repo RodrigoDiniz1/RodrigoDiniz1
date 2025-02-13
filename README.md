@@ -4,7 +4,7 @@ Me chamo Rodigo Diniz, atualmente sou Desenvolvedor Web, trabalho com projetos f
 
 - HTML5;
 - CSS3;
-- JavaScript
+- JavaScript;
 - Dentre outras tecnologias.
 
  Minhas redes sociais:<br> 
